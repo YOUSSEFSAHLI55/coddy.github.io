@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مرحبا فموقعي</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>مرحبا بك فموقع Coddy ✅</h1>
+  <p>هاد الموقع خدام دابا عبر GitHub Pages 🚀</p>
+  <button onclick="sayHello()">كليكي عليا</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
